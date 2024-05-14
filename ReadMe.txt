@@ -1,0 +1,1 @@
+Hey . I am areeba Shahid . To use this app add reference of library to businessapp . U are all set . Connect it to mysql microsoft server in businessapp named file class objject handling , just chnage connection string with your sql server and U are all set .
